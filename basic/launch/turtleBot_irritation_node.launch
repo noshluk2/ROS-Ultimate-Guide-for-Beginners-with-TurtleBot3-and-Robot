@@ -1,0 +1,5 @@
+<launch>
+    <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_empty_world.launch" />
+    <node pkg="basic"     type="object_irritational_robot.py" name="Irritated_bot" output="screen"/>
+
+</launch>

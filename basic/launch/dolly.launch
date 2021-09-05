@@ -1,0 +1,13 @@
+<launch>
+    
+
+    <param name="robot_description" textfile="$(find basic)/urdf/dolly.urdf" />
+
+    <include file="$(find gazebo_ros)/launch/empty_world.launch"/>
+
+    <node name="spawn_urdf" pkg="gazebo_ros" type="spawn_model"  
+         args="-param robot_description -urdf -model dolly" />  
+         
+    <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher"/>
+
+</launch>

@@ -1,0 +1,6 @@
+<launch>
+	
+<node pkg="turtlesim" type="turtlesim_node" name="diff_drive" output="screen"/>
+<node pkg="basic"     type="circular_drive.py" name="circle_making" output="screen"/>
+
+</launch>

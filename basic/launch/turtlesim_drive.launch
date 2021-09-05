@@ -1,0 +1,6 @@
+<launch>
+	
+    <node pkg="turtlesim" type="turtlesim_node" name="Turetlesim_gui" output="screen"/>
+    <node pkg="turtlesim" type="turtle_teleop_key" name="driver" output="screen"/>
+
+</launch>
