@@ -1,0 +1,6 @@
+<launch>
+	
+    <node pkg="turtlesim" type="turtlesim_node" name="Simulation" output="screen"/>
+    <node pkg="luqman_package" type="circular_movement.py"    name="Circle_maker" output="screen"/>
+
+</launch>

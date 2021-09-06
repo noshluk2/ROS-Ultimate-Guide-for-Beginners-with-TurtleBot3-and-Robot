@@ -1,0 +1,7 @@
+<launch>
+	
+    <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_empty_world.launch" />
+    
+    <node pkg="luqman_package" type="irritational_bot.py" name="tb3_driver" output="screen"/>
+
+</launch>

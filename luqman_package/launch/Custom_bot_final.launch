@@ -1,0 +1,7 @@
+<launch>
+	
+    <include file="$(find luqman_package)/launch/dolly.launch" />
+    
+    <node pkg="luqman_package" type="irritational_bot.py" name="tb3_driver" output="screen"/>
+
+</launch>

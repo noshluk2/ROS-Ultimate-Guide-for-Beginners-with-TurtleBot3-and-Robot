@@ -1,0 +1,6 @@
+<launch>
+	
+    <node pkg="turtlesim" type="turtlesim_node" name="Simulation" output="screen"/>
+    <node pkg="turtlesim" type="draw_square"    name="Sqaure_maker" output="screen"/>
+
+</launch>
