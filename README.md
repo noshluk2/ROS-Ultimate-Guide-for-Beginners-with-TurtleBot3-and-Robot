@@ -17,7 +17,7 @@
 ## About this Repository
 ROS1 Noetic is the main framework we will be using in this course , Turtlesim package , TurtleBot3 and our Custom Robot Dolly is what we are going to create add sensors to these robots and write algorithms to avoid obstacles in simulation of Gaebo
 
-- ![alt text](https://github.com/noshluk2/ROS-Ultimate-Guide-for-Beginners-with-TurtleBot3-and-Robot/Images/mainCover.png)
+- ![alt text](https://github.com/noshluk2/ROS-Ultimate-Guide-for-Beginners-with-TurtleBot3-and-Robot/blob/main/Images/mainCover.png)
 - **[[Get course Here]](https://www.udemy.com/course/the-ultimate-guide-to-ros-simulate-your-robots/?couponCode=GITHUB)**
 ----
 ## Using this Repository
@@ -63,13 +63,13 @@ With these simulators endless possibilities of projects will open by adding the 
 ---
 ## Features
 * **TurtleSim Circle Movement** 
-  -  ![alt text](https://github.com/noshluk2/ROS-Ultimate-Guide-for-Beginners-with-TurtleBot3-and-Robot/Images/turtleSim_circle.gif)
+  -  ![alt text](https://github.com/noshluk2/ROS-Ultimate-Guide-for-Beginners-with-TurtleBot3-and-Robot/blob/main/Images/turtleSim_circle.gif)
 * **Turtlebot 3 Object Irrirational Robot** 
-  -  ![alt text](https://github.com/noshluk2/ROS-Ultimate-Guide-for-Beginners-with-TurtleBot3-and-Robot/Images/tb3_irritated.gif)
+  -  ![alt text](https://github.com/noshluk2/ROS-Ultimate-Guide-for-Beginners-with-TurtleBot3-and-Robot/blob/main/Images/tb3_irritated.gif)
 * **Building Custom Robot** 
-  -  ![alt text](https://github.com/noshluk2/ROS-Ultimate-Guide-for-Beginners-with-TurtleBot3-and-Robot/Images/building_dolly.gif)
+  -  ![alt text](https://github.com/noshluk2/ROS-Ultimate-Guide-for-Beginners-with-TurtleBot3-and-Robot/blob/main/Images/building_dolly.gif)
 * **Obstacle Avoiding Robot**
-  - ![alt text](https://github.com/noshluk2/ROS-Ultimate-Guide-for-Beginners-with-TurtleBot3-and-Robot/Images/dolly_OA.gif)
+  - ![alt text](https://github.com/noshluk2/ROS-Ultimate-Guide-for-Beginners-with-TurtleBot3-and-Robot/blob/main/Images/dolly_OA.gif)
 * 
 
 
