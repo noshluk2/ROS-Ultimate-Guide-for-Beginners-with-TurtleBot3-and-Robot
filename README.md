@@ -8,7 +8,7 @@
     <li><a href="#Features">Features</a></li>
     <li><a href="#Pre-Course-Requirments">Pre-Course Requirments</a></li>
     <li><a href="#Link-to-the-Course">Link to the Course</a></li>
-    <li><a href="#Notes">Features</a></li>
+    <li><a href="#Notes">Notes</a></li>
     <li><a href="#Instructors">Instructors</a></li>
     <li><a href="#License">License</a></li>
   </ol>
@@ -85,6 +85,9 @@ With these simulators endless possibilities of projects will open by adding the 
 
 **[[Get course HERE]](https://www.udemy.com/course/the-ultimate-guide-to-ros-simulate-your-robots/?couponCode=GITHUB)**
 
+----
+## Notes
+We have uploaded all the notes made during the lectures of the course so you can get more out of this repository with the instructors Notes. A seperate folder named as **Notes** contain a single PDF carrying all the notes in the root of this repository
 ----
 
 ## Instructors
