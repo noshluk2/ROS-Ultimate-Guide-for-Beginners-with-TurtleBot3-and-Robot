@@ -18,9 +18,10 @@
 ROS1 Noetic is the main framework we will be using in this course , Turtlesim package , TurtleBot3 and our Custom Robot Dolly is what we are going to create add sensors to these robots and write algorithms to avoid obstacles in simulation of Gaebo
 
 - ![alt text](https://github.com/noshluk2/ROS-Ultimate-Guide-for-Beginners-with-TurtleBot3-and-Robot/blob/main/Images/mainCover.png)
-- **[[Get course Here]](https://www.udemy.com/course/the-ultimate-guide-to-ros-simulate-your-robots/?couponCode=GITHUB)**
+- **[[Get course Here]](https://www.udemy.com/course/the-ultimate-guide-to-ros-simulate-your-robots/?couponCode=WP_STUDENTS_)**
 ----
 ## Using this Repository
+* Ubuntu 20.04 and ROS1-Noetic should be installed 
 * Move into your workspace/src folder
  ```
  cd path/to/ros1_ws/src/
@@ -83,7 +84,7 @@ With these simulators endless possibilities of projects will open by adding the 
 ## Link to the Course
 <!-- - ![alt text](https://github.com/HaiderAbasi/SelfDrivingProject_MiniTesla/blob/master/3D%20model%20file/Tesla%20Self%20Driving%20Car.png) -->
 
-**[[Get course HERE]](https://www.udemy.com/course/the-ultimate-guide-to-ros-simulate-your-robots/?couponCode=GITHUB)**
+**[[Get course HERE]](https://www.udemy.com/course/the-ultimate-guide-to-ros-simulate-your-robots/?couponCode=WP_STUDENTS_)**
 
 ----
 ## Notes
